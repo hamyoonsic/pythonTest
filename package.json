@@ -1,0 +1,19 @@
+{
+  "name": "pythontest",
+  "version": "1.0.0",
+  "description": "pythonTest hello  \r KOSA TEST",
+  "main": "nodeWeb.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2"
+  }
+}
